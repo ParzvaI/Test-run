@@ -1,0 +1,7 @@
+exp_name : 'exp_02'                 # Specify the Experiment Number
+checkpoint_dir : './checkpoint/'    # Specify the directory to store checkpoints
+model : "lenet"                     # Specify the model name to be used : Lenet or Resnet
+test : "./Test/"                    # Specify the path to the folder consisting the Test Data
+train : "./Train/"                  # Specify the path to the folder consisting the Train Data
+validation : "./Validation/"        # Specify the path to the folder consisting the Validation Data
+parameter : "FPS"                   # Specify the fitness parameter to be used : FPS or Accuracy or Bandwidth
