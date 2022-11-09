@@ -1,0 +1,2 @@
+{'exp_name': 'exp_02', 'checkpoint_dir': './checkpoint/', 'model': 'lenet', 'test': './Test/', 'train': './Train/', 'validation': './Validation/', 'parameter': 'FPS'}
+Generation		best_accuracy		best_throughput		fitness_scores		
